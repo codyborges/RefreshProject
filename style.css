@@ -42,7 +42,13 @@
     width: 100%;
 }
 
+.aboutHeader{
+    text-align: center;
+    font-size: 40px;
+}
+
 .about{
+    text-align: center;
     padding: 5px 50px;
 }
 
