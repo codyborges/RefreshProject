@@ -37,10 +37,8 @@
     color: 0075a2;
 
 }
-/* 
-ul > li {
-    display: flex;
-    flex-direction: row;
-    color: red;
-    margin: 0 2%;
-} */
+
+.mainImage > img{
+    width: 100%;
+}
+
